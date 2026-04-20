@@ -1,0 +1,14 @@
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\bin\Debug\net10.0\MiniRogue.exe
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\bin\Debug\net10.0\MiniRogue.deps.json
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\bin\Debug\net10.0\MiniRogue.runtimeconfig.json
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\bin\Debug\net10.0\MiniRogue.dll
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\bin\Debug\net10.0\MiniRogue.pdb
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\MiniRogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\MiniRogue.AssemblyInfoInputs.cache
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\MiniRogue.AssemblyInfo.cs
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\MiniRogue.csproj.CoreCompileInputs.cache
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\MiniRogue.dll
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\refint\MiniRogue.dll
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\MiniRogue.pdb
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\MiniRogue.genruntimeconfig.cache
+C:\src\MiniRogue\MiniRogue\MiniRogue\MiniRogue\obj\Debug\net10.0\ref\MiniRogue.dll
