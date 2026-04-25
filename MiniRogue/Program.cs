@@ -9,7 +9,9 @@ namespace MiniRogue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("output");
+            Game game = new Game();
+            game.Initialize();
+            game.Run();
         }
     }
 }

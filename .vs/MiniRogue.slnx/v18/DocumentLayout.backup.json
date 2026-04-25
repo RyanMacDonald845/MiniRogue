@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\MiniRogue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\screenbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\screenbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\tiles\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\tiles\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\tiles\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\tiles\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\tiles\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\tiles\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\tiles\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\tiles\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|c:\\src\\minirogue\\minirogue\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC33FD0-94D8-A21E-A30C-74CFCEAEB785}|MiniRogue\\MiniRogue.csproj|solutionrelative:minirogue\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Position.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Position.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Position.cs",
+              "RelativeToolTip": "MiniRogue\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:38:16.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Tiles\\Exit.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Tiles\\Exit.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Tiles\\Exit.cs",
+              "RelativeToolTip": "MiniRogue\\Tiles\\Exit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:05:40.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Program.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Program.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Program.cs",
+              "RelativeToolTip": "MiniRogue\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:48:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Level.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Level.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Level.cs",
+              "RelativeToolTip": "MiniRogue\\Level.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:16:49.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Tiles\\Start.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Tiles\\Start.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Tiles\\Start.cs",
+              "RelativeToolTip": "MiniRogue\\Tiles\\Start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:05:48.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Tiles\\Floor.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Tiles\\Floor.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Tiles\\Floor.cs",
+              "RelativeToolTip": "MiniRogue\\Tiles\\Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:55:59.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Game.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Game.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Game.cs",
+              "RelativeToolTip": "MiniRogue\\Game.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:10:04.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Player.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Player.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Player.cs",
+              "RelativeToolTip": "MiniRogue\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T20:44:24.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScreenBuffer.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\ScreenBuffer.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\ScreenBuffer.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\ScreenBuffer.cs",
+              "RelativeToolTip": "MiniRogue\\ScreenBuffer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:27:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Tile.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Tile.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Tile.cs",
+              "RelativeToolTip": "MiniRogue\\Tile.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T20:58:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Tiles\\Wall.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Tiles\\Wall.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Tiles\\Wall.cs",
+              "RelativeToolTip": "MiniRogue\\Tiles\\Wall.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:01:01.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\Character.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\Character.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\Character.cs",
+              "RelativeToolTip": "MiniRogue\\Character.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T20:44:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWalkable.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\IWalkable.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\IWalkable.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\IWalkable.cs",
+              "RelativeToolTip": "MiniRogue\\IWalkable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T23:05:50.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\src\\MiniRogue\\MiniRogue\\IDrawable.cs",
+              "RelativeDocumentMoniker": "MiniRogue\\IDrawable.cs",
+              "ToolTip": "C:\\src\\MiniRogue\\MiniRogue\\IDrawable.cs",
+              "RelativeToolTip": "MiniRogue\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:58:52.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

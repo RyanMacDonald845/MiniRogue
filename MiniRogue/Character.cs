@@ -6,71 +6,76 @@ namespace MiniRogue
 {
     internal class Character : IDrawable
     {
-        private Position position;
+        public ConsoleColor Color { get; set;  }
+        private Position _position;
         public Position Position
         {
-            get { return position; }
+            get { return _position; }
             protected set
             {
-                position = value;
+                _position = value;
             }
         }
-        private int health;
+        private int _health;
         public int Health
         {
-            get { return  health; }
+            get { return  _health; }
             protected set
             {
-                health = value;
+                _health = value;
             }
         }
-        private int attackPower;
+        private int _attackPower;
         public int AttackPower
         {
-            get { return attackPower; }
+            get { return _attackPower; }
             protected set
             {
-                attackPower = value;
+                _attackPower = value;
             }
         }
-        private int defense;
+        private int _defense;
         public int Defense
         {
-            get { return  defense; }
+            get { return  _defense; }
             protected set
             {
-                defense = value;
+                _defense = value;
             }
         }
-        private string name;
+        private string _name;
         public string Name
         {
-            get { return name; }
+            get { return _name; }
             protected set
             {
-                name = value;
+                _name = value;
             }
         }
-        private char glyph;
+        private char _glyph;
         public char Glyph
         {
-            get { return glyph; }
+            get { return _glyph; }
             protected set
             {
-                glyph = value;
+                _glyph = value;
             }
         }
 
-        public Character(char glyph)
+        public Character(string name, char glyph, int health, int attackPower, Position position)
         {
+            Name = name;
             Glyph = glyph;
+            Health = health;
+            AttackPower = attackPower;
+            Position = position;
         }
 
         //returns the amount of health left on the character
         public int Attack(Character character)
         {
-            character.Health += character.defense - AttackPower;
-            return character.health;
+            character.Health += character._defense - AttackPower;
+            return character._health;
         }
 
         public void AddHealth(int amount)

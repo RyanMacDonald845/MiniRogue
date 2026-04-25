@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniRogue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a9c62fb6b0c69e46dba0832c658b8c96eebb319")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniRogue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniRogue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

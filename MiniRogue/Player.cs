@@ -6,9 +6,9 @@ namespace MiniRogue
 {
     internal class Player : Character
     {
-        public Player(char glyph) : base(glyph)
+        public Player(string name, char glyph, int health, int attackPower, Position position) : base(name, glyph, health, attackPower, position)
         {
-
+            Color = ConsoleColor.Green;
         }
     }
 }
